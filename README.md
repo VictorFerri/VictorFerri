@@ -2,11 +2,8 @@
   👋 I'm Victor Ferri
 </h1>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorFerri&show_icons=true&icon_color=4ebcf0&hide_border=false&theme=dark&bg_color=0D1117"/>
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorFerri&show_icons=true&icon_color=4ebcf0&hide_border=false&theme=dark&bg_color=0D1117"/>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFerri&show_icons=true&icon_color=4ebcf0&hide_border=false&theme=dark&bg_color=0D1117&layout=compact"/>
-</div>
 
 <div align="center">
   <a href="https://www.instagram.com/victorferri2003/" alt="Instagram" target="_blank">

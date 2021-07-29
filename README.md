@@ -1,7 +1,4 @@
 <div align="center">
-  <h1>
-  👋 I'm Victor Ferri
-  </h1>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorFerri&show_icons=true&icon_color=4ebcf0&hide_border=false&theme=dark&bg_color=0D1117"/>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFerri&show_icons=true&icon_color=4ebcf0&hide_border=false&theme=dark&bg_color=0D1117&layout=compact"/>
 </div>
@@ -16,5 +13,3 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
 </div>
-
-

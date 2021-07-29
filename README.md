@@ -1,6 +1,6 @@
-<h1 align="center">
-  ### Hi there 👋 I'm Victor Ferri
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=👋%20I'm%20Victor%20Ferri&fontSize=60"/>
+</div>
 <div align="center">
   <p>
       - 🔭 I’m currently working on my projects.
@@ -22,7 +22,11 @@
   </a>
 </div>
   
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorFerri&show_icons=true&icon_color=4ebcf0&hide_border=true&theme=dark&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFerri&&show_icons=true&icon_color=4ebcf0&hide_border=true&theme=dark&bg_color=0D1117"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorFerri&show_icons=true&icon_color=4ebcf0&hide_border=false&theme=dark&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFerri&&show_icons=true&icon_color=4ebcf0&hide_border=false&theme=dark&bg_color=0D1117&layout=compact"/>
+  
+  <img src="https://activity-graph.herokuapp.com/graph?username=VictorFerri&theme=github"/>
+</div>
+
+

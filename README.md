@@ -24,4 +24,5 @@
   
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VictorFerri&show_icons=true&icon_color=4ebcf0&hide_border=true&theme=dark&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFerri&&show_icons=true&icon_color=4ebcf0&hide_border=true&theme=dark&bg_color=0D1117"/>
 </p>

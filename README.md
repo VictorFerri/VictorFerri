@@ -1,6 +1,47 @@
 <h1 align="center">
-  👋 I'm Victor Ferri
+  👋 I'm Victor Ferri,
+  Front-End Developer
 </h1>
+
+<div>
+  <h2>
+    🚀 About me
+  </h2>
+  <p>
+    Since forever, my dream has been to use technology to build whatever I want, and now I'm here, working with it and enjoying every step of this journey!
+  </p>
+</div>
+
+<div>
+  <h2>
+    🛠 Skills
+  </h2>
+  <span>
+    JavaScript |
+  </span>
+  <span>
+    TypeScript |
+  </span>
+  <span>
+    ReactJs |
+  </span>
+  <span>
+    NextJS |
+  </span>
+  <span>
+    Redux |
+  </span>
+  <span>
+    Html |
+  </span>
+  <span>
+    Css |
+  </span>
+  <span>
+    Sass |
+  </span>
+</div>
+
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VictorFerri&show_icons=true&icon_color=4ebcf0&hide_border=false&theme=dark&bg_color=0D1117"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFerri&show_icons=true&icon_color=4ebcf0&hide_border=false&theme=dark&bg_color=0D1117&layout=compact"/>

@@ -40,6 +40,9 @@
   <span>
     Sass |
   </span>
+  <span>
+    TailwindCSS |
+  </span>
 </div>
 
 <h2>

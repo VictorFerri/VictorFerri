@@ -8,7 +8,7 @@
     🚀 About me
   </h2>
   <p>
-    Since forever, my dream has been to use technology to build whatever I want, and now I'm here, working with it and enjoying every step of this journey!
+    Hello, world! I'm Victor, a 19-year-old Software Engineering student who has found his passion in the freedom of creativity in programming. Since 2021, I've been creating websites and systems where I can explore my imagination and innovate. Each project is an opportunity to leave my unique mark in the digital world. Let's code, learn, and unleash our creativity together!
   </p>
 </div>
 
@@ -41,6 +41,10 @@
     Sass |
   </span>
 </div>
+
+<h2>
+  
+</h2>
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VictorFerri&show_icons=true&icon_color=4ebcf0&hide_border=false&theme=dark&bg_color=0D1117"/>

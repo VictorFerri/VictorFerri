@@ -8,7 +8,7 @@
     🚀 About me
   </h2>
   <p>
-    Hello, world! I'm Victor, a 19-year-old Software Engineering student who has found his passion in the freedom of creativity in programming. Since 2021, I've been creating websites and systems where I can explore my imagination and innovate. Each project is an opportunity to leave my unique mark in the digital world. Let's code, learn, and unleash our creativity together!
+    Hello, world! I'm Victor, a 20-year-old Software Engineering student who has found his passion in the freedom of creativity in programming. Since 2021, I've been creating websites and systems where I can explore my imagination and innovate. Each project is an opportunity to leave my unique mark in the digital world. Let's code, learn, and unleash our creativity together!
   </p>
 </div>
 

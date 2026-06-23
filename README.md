@@ -9,7 +9,7 @@
 
 <div align="center">
   <p>
-    Hello, world! I'm a Mid-Level Full-Stack Software Engineer with over 5 years of experience building scalable systems and modern applications. Since 2021, I've specialized in crafting robust backend architectures (NestJS, FastAPI, Kotlin) and intuitive mobile/web experiences (React Native, Next.js). I focus on delivering high-performance, production-ready solutions and am always looking for the next challenge. Let's code and build the future together!
+    Hello, world! I'm a Full-Stack Software Engineer with over 5 years of experience building scalable systems and modern applications. Since 2021, I've specialized in crafting robust backend architectures (NestJS, FastAPI, Kotlin) and intuitive mobile/web experiences (React Native, Next.js). I focus on delivering high-performance, production-ready solutions and am always looking for the next challenge. Let's code and build the future together!
   </p>
 </div>
 
